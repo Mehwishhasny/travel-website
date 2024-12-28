@@ -3,7 +3,7 @@ import { Check } from 'lucide-react';
 
 export function Package() {
   return (
-    <div className="flex md:flex-row flex-col">
+    <div className="flex md:flex-row flex-col bg-white">
     <div className="flex w-full md:mt-10 mt-6 flex-col">
       <h2 className="flex md:items-start items-center md:text-6xl px-12 text-3xl text-[#B88E2F] font-bold">
         Packages 
@@ -35,7 +35,7 @@ export function Package() {
         <div className="flex flex-col md:translate-y-[-30%]">
           
 
-          <div className="flex md:flex-row flex-col md:ml-0 ml-10">
+          <div className="flex md:flex-row flex-col md:ml-0 ml-8">
                 <div className="flex px-4">
               <div className="hexagon-border1">
                 <div className="hexagon1">
@@ -72,7 +72,7 @@ export function Package() {
             </div>
           
 
-          <div className="md:flex hidden justify-center md:flex-row flex-col md:ml-0 ml-10">
+          <div className="md:flex hidden justify-center md:flex-row flex-col md:ml-0 ml-8">
             
           <div className="flex px-4 w-1/2 mt-10 flex-col">
                 <h2 className="flex text-[#B88E2F] text-3xl font-bold items-center justify-center"> $ 1200 </h2>
@@ -107,7 +107,7 @@ export function Package() {
           </div>
 
           
-            <div className="justify-center flex md:flex-row flex-col md:ml-0 ml-10">
+            <div className="justify-center flex md:flex-row flex-col md:ml-0 ml-8">
               <div className="hexagon-border1">
                 <div className="hexagon1">
                   <Image
@@ -143,7 +143,7 @@ export function Package() {
                 </div>
             </div>
 
-            <div className="justify-center md:flex hidden md:flex-row flex-col md:ml-0 ml-10">
+            <div className="justify-center md:flex hidden md:flex-row flex-col md:ml-0 ml-8">
                 
             <div className="flex px-4 w-1/2 mt-10 flex-col">
                 <h2 className="flex text-[#B88E2F] text-3xl font-bold items-center justify-center"> $ 1200 </h2>

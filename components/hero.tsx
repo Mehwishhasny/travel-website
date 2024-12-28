@@ -41,7 +41,7 @@ const Hero = () => {
         </div>
 
 
-        <div className="md:w-1/2 w-full md:mt-0 mt-3 flex flex-col items-center justify-center text-center px-4">
+        <div className="md:w-1/2 w-full md:mt-0 mt-3 flex flex-col items-center justify-center text-center px-4 bg-white">
           <h1 className="text-gray-600 text-3xl sm:text-5xl font-extrabold mb-2 sm:mb-4">
             Make your dream Umrah and Hajj with our expert guidance
           </h1>
